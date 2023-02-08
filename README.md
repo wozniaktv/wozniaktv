@@ -14,5 +14,3 @@
 - C#
 - Python
 - JavaScript
-
-I hope my projects will be useful to you, best wishes 😁!
