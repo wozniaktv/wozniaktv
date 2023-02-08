@@ -2,7 +2,7 @@
 
 > This is _Vrancianu Claudiu Leonard_ ✒️
 
-#### Things I've published: 🧑‍💻
+#### Projects that you can find here: 🧑‍💻
 
 - **Minecraft Plugins**
 - **School Projects**
