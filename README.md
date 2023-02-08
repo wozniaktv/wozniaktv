@@ -1,14 +1,14 @@
-### **Hey there, what are you searching for?**
+### **Hey there, what are you searching for?** 👋
 
-> This is _Vrancianu Claudiu Leonard_
+> This is _Vrancianu Claudiu Leonard_ ✒️
 
-#### Things I've published:
+#### Things I've published: 🧑‍💻
 
 - **Minecraft Plugins**
 - **School Projects**
 - **Python Scripts**
 
-#### Languages i like:
+#### Languages i like: 📚
 
 - Kotlin/Java
 - C#
