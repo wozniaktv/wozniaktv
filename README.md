@@ -1,6 +1,6 @@
 ### **Hey there, what are you searching for?** 👋
 
-> This is _Vrancianu Claudiu Leonard_ ✒️
+| **This is Vrancianu Claudiu Leonard's project library** ✒️ |
 
 #### Projects that you can find here: 🧑‍💻
 
