@@ -1,7 +1,7 @@
 ### **Hey there, what are you searching for?** 👋
-
-| **This is Vrancianu Claudiu Leonard's project library** ✒️ |
-
+ 
+ **This is Vrancianu Claudiu Leonard's project library** ✒️
+ 
 #### Projects that you can find here: 🧑‍💻
 
 - **Minecraft Plugins**
