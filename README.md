@@ -1,8 +1,17 @@
-### Hi there 👋
+### **Hey there, what are you searching for?**
 
+> This is _Vrancianu Claudiu Leonard_
 
+#### Things I've published:
 
-- 🔭 I’m currently working on **Minecraft Plugins**
-- 🌱 I’m currently learning **C# and Java | Minecraft Plugins | Other Games Development**
-- 👯 I’m looking to collaborate on **Minecraft Plugins**
-- 📫 How to reach me: lol2302004@gmail.com
+- **Minecraft Plugins**
+- **School Projects**
+- **Python Scripts**
+
+#### Languages i like:
+
+- Kotlin/Java
+- C#
+- Python
+
+I hope my projects will be useful to you, best wishes 😁!
